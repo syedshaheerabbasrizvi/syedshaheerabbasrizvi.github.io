@@ -451,9 +451,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-collaborative-human-robot-gantry-system",
+          title: 'Collaborative Human-Robot Gantry System',
+          description: "Industry 5.0 human-robot collaboration for microwave assembly at Dawlance",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
