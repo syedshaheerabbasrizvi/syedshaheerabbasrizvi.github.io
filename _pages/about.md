@@ -29,3 +29,5 @@ I am a final-year Electrical Engineering undergraduate at [Habib University](htt
 My research spans explainable AI, computer vision, robotics, and embedded systems. I am currently working on a collaborative human-robot gantry system for [Dawlance](https://www.dawlance.com.pk), a multispectral milk adulteration detection system, and an AI/ML internship at [FarmEvo Technologies](https://farmevo.ai), where I work on vision-language models for agricultural applications.
 
 I am interested in pursuing a PhD in robotics and AI, with a focus on developing local technological solutions for Pakistan's socioeconomic challenges.
+
+Note: this portfolio is a work in progress. Expect big changes by the end of March!
