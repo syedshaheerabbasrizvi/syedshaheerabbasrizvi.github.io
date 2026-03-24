@@ -461,9 +461,9 @@ ninja.data = [{
           description: "Two-stage multimodal Vision Transformer for crop disease detection",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-toyota-autonomous-tow-truck",
+          title: 'Toyota Autonomous Tow Truck',
+          description: "Autonomous vehicle control for Toyota Indus Motor Company",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
